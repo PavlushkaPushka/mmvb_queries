@@ -33,7 +33,7 @@ marketprice_boardid="TQBR"/>
 //       "Coupons": "https://iss.moex.com/iss/statistics/engines/stock/markets/bonds/bondization/{ticket}.json?from=%7BdateString%7D&iss.only=coupons,amortizations&iss.meta=off",
 //       "Candles": "http://iss.moex.com/iss/engines/stock/markets/shares/securities/{ticket}/candles.json?from={date}&interval={interval}&iss.meta=off"
 
-
+// https://iss.moex.com/iss/engines/stock/markets/shares/securities/sber/trades?start=83000 - информация о сделках
 
 // что надо от API ?
 // Получать данные по всем облигациям (корп, гос) и акциям
