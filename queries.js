@@ -8,3 +8,22 @@
 // https://iss.moex.com/iss/securities.xml?securities.columns=secid,%20name&iss.meta=off - убрать мета данные
 // limit start - пагинация
 // https://iss.moex.com/iss/securitytypes.xml - какие типы бывают (надо поискать аналогичные)
+
+<row id="5443" 
+secid="SBER" 
+shortname="Сбербанк" 
+regnumber="10301481B" 
+name="Сбербанк России ПАО ао" 
+isin="RU0009029540" is_traded="1" emitent_id="1199" 
+emitent_title="Публичное акционерное общество "Сбербанк России"" 
+emitent_inn="7707083893" emitent_okpo="00032537" gosreg="10301481B" 
+type="common_share" group="stock_shares" 
+primary_boardid="TQBR" 
+marketprice_boardid="TQBR"/>
+
+
+
+// что надо от API ?
+// Получать данные по всем облигациям (корп, гос) и акциям
+// цены/торги\
+// далее на основе этого делать анализ
