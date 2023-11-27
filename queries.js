@@ -5,3 +5,6 @@
 // https://iss.moex.com/iss/securities.xml?securities.columns=secid,%20name убрать лишнее из запроса
 
 // https://www.postman.com/azzrael/workspace/azzrael-code-yt/request/18434521-2378a9c7-f719-4814-afc1-69e72c3ed398 коллекция всех запросов с видео
+// https://iss.moex.com/iss/securities.xml?securities.columns=secid,%20name&iss.meta=off - убрать мета данные
+// limit start - пагинация
+// https://iss.moex.com/iss/securitytypes.xml - какие типы бывают (надо поискать аналогичные)
