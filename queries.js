@@ -9,6 +9,8 @@
 // limit start - пагинация
 // https://iss.moex.com/iss/securitytypes.xml - какие типы бывают (надо поискать аналогичные)
 
+// https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/SBER?iss.json=extended&from=2000-01-01&start=2620 - цены за все даты, можно строить графики
+
 <row id="5443" 
 secid="SBER" 
 shortname="Сбербанк" 
